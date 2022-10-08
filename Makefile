@@ -3,7 +3,7 @@
 
 BUILD_DIR = build
 
-EXAMPLE = k64f-example
+EXAMPLE = blinky
 
 OBJECTS += ./main.o
 OBJECTS += ./funcs.o
