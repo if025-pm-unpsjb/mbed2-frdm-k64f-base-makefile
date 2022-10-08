@@ -3,7 +3,7 @@
 
 BUILD_DIR = build
 
-EXAMPLE = blinky
+EXAMPLE = blink
 
 OBJECTS += ./main.o
 OBJECTS += ./funcs.o
